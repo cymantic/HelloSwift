@@ -1,6 +1,7 @@
 import XCTest
+import Quick
 @testable import HelloSwiftTests
 
-XCTMain([
-    testCase(HelloSwiftTests.allTests),
+QCKMain([
+    HelloSwiftSpec.self
 ])
