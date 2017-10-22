@@ -1,6 +1,6 @@
 # HelloSwift
 
-## Ubuntu setup
+## Ubuntu Setup
 
 ### Installing
 
